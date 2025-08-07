@@ -2,7 +2,7 @@
 
 # 🧮 Calculadora com Interface Gráfica (Flet + Python)
 
-Este projeto nasceu de um **desafio lançado em live**, onde fui desafiado a **replicar uma calculadora de terminal feita em Python**, criada por um amigo no Discord, mas **usando Java**. No entanto, decidi ir além e desenvolvi uma versão mais completa, **com interface gráfica moderna utilizando Python e Flet**.
+Este projeto nasceu do meu interesse em estudar e praticar desenvolvimento de interfaces gráficas em Python. Decidi criar uma calculadora como forma de aprender mais sobre a biblioteca Flet e explorar a estruturação de um projeto completo.
 
 ---
 
