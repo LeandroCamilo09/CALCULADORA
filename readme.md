@@ -1,4 +1,4 @@
-![Screenshot da Calculadora](assets\image.png)
+![Screenshot da Calculadora](assets\img.png)
 
 # 🧮 Calculadora com Interface Gráfica (Flet + Python)
 
